@@ -1,5 +1,11 @@
 # Boas-vindas ao repositório do projeto Lessons Learned!
 
+## README Translations:
+* [English](/README.en.md)
+* [Portuguese](/README.md)
+
+---
+
 ## 👨‍💻 O que foi desenvolvido:
 
   - Uma página HTML que contém uma série de informações sobre o que eu aprendi na Trybe ao longo dos três primeiros blocos. O site está com elementos posicionados e estilizados com CSS e, além disto, contém semântica apropriada para que seja acessível e melhor ranqueado.
