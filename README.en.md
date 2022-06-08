@@ -1,6 +1,6 @@
 # Welcome to the Lessons Learned project repository!
 
-## README Translations:
+### README Translations:
 
 -   [English](/README.en.md)
 -   [Portuguese](/README.md)
